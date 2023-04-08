@@ -1,4 +1,11 @@
 .idea/
 *.iml
 *.idea/*.xml
+*.pyc
+*.pyproject.user
+*.pyproject
+*.user
+*/.gitignore
+*/*/.gitignore
+
 
